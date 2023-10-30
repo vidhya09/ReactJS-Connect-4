@@ -1,0 +1,37 @@
+body,html{
+  background-color: black;
+}
+.page-container{
+  background-color: black;
+  color: white;
+}
+.p1{
+  font-size: medium;
+  color: gray;
+}
+.header{
+  text-align: center;
+}
+.text{
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.red-text {
+    color: rgb(237, 45, 73);
+    font-size: 30px;
+    font-weight: bolder;
+  }
+  
+  .blue-text {
+    color: rgb(86, 151, 255);
+    font-size: 30px;
+    font-weight: bolder;
+  }
+  .names-button{
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    background-color: palevioletred;
+    color: white;
+  }
